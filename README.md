@@ -9,6 +9,6 @@ TODO: Implement Solver BFS
 
 Developed by: Ysmayylow01
 
-[buy me coffee](merdanysmayylow25@gmail.com)
+[buy me coffee](Ysmayylow01)
 
 ![](/screen-records/screen-record.gif)
